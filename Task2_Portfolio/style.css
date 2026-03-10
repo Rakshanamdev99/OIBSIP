@@ -1,0 +1,59 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#4CAF50;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+.about{
+text-align:center;
+padding:40px;
+}
+
+.about img{
+border-radius:50%;
+}
+
+.skills{
+background:white;
+padding:40px;
+text-align:center;
+}
+
+.skills ul{
+list-style:none;
+padding:0;
+}
+
+.skills li{
+display:inline-block;
+margin:10px;
+padding:10px 20px;
+background:#4CAF50;
+color:white;
+border-radius:5px;
+}
+
+.projects{
+padding:40px;
+text-align:center;
+}
+
+.contact{
+background:white;
+padding:40px;
+text-align:center;
+}
+
+footer{
+background:#333;
+color:white;
+text-align:center;
+padding:20px;
+}
